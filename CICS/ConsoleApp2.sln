@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CICS", "ConsoleApp2\CICS.csproj", "{B69CA4C1-94B2-4150-A15E-69C4F07BE1FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B69CA4C1-94B2-4150-A15E-69C4F07BE1FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B69CA4C1-94B2-4150-A15E-69C4F07BE1FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B69CA4C1-94B2-4150-A15E-69C4F07BE1FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B69CA4C1-94B2-4150-A15E-69C4F07BE1FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15C150A0-C2E5-4CDB-A011-592BF5543B7A}
+	EndGlobalSection
+EndGlobal
